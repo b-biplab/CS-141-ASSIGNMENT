@@ -10,9 +10,9 @@ int main()
     cout << endl;
 
 
-	int integer;
-	bool boolean;
-	float floatingPt;
+	int integer;           //it only takes integer value.
+	bool boolean;         //it takes true or false type data i.e 1 or 0.
+	float floatingPt;   //it  takes all type of numeric values.
 	char character;
 
 	// input of basic data types
@@ -26,7 +26,7 @@ int main()
 	cout << "Enter a floating point value: " << endl ;
 	cin >> floatingPt;
 
-	cout << "Enter a character value: " << endl ;
+	cout << "Enter a character : " << endl ;
 	cin >> character;
 
 	cout << endl;
@@ -37,7 +37,7 @@ int main()
 	cout << "Boolean value: " << "  " << boolean << endl;
 
 	cout << "Floating point value: " << "  " << floatingPt << endl;
-	cout << "Character value: " << "    " << character << endl;
+	cout << "Character : " << "    " << character << endl;
 
 	cout << endl;
 
