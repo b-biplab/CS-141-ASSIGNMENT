@@ -5,7 +5,7 @@ using namespace std;
 int main(){
     cout << "Hello , subhankar sir!" << endl;
 
-    // Write a C++ program to enter two numbers and find their sum.
+    // Write a C++ program to enter two numbers and find all arithimatic functions.
 
    float number1 ,number2,addition,subtraction,multiplication,division;
 
